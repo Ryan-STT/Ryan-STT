@@ -4,7 +4,6 @@
 - 🌱 Estudando linguagem back-end JAVA e frameworks
 - ⚡ Fui estudante do instituto proa 4.0 e estou cursando o 2º semestre da faculdade de Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
--->
 
  <div>
   <a href="https://github.com/Ryan-STT">
