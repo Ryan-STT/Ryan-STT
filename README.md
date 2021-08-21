@@ -3,7 +3,7 @@
 - 🔭 Em busca de oportunidade profissional como desenvolvedor Web
 - 🌱 Estudando linguagem back-end JAVA e frameworks
 - ⚡ Fui estudante do instituto proa 4.0 e estou cursando o 2º semestre da faculdade de Análise e Desenvolvimento de Sistemas
-- - 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: Ele/Dele
 -->
 
  <div>
