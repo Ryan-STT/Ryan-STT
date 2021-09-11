@@ -7,7 +7,7 @@
 
  <div>
   <a href="https://github.com/Ryan-STT">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ryan-STT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Ryan-STT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-STT&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
