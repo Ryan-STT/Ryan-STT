@@ -1,4 +1,4 @@
-# 👋🏼 Ryan De Souza Tomaz
+# 🐛 Ryan De Souza Tomaz
 
 **`Analista de Quality Assurance`**
 
