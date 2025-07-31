@@ -1,9 +1,8 @@
-## Olá! Meu nome é Ryan De Souza Tomaz
+# 👩🏻‍💻 Ryan De Souza Tomaz
 
-- 🔭 Em busca de oportunidade profissional como desenvolvedor Web
-- 🌱 Estudando linguagem back-end JAVA e frameworks
-- ⚡ Fui estudante do instituto proa 4.0 e estou cursando o 2º semestre da faculdade de Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
+**`Analista de Quality Assurance`**
+
+Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE e atualmente estou em transição para a área de Qualidade de Software (QA), após uma sólida experiência como desenvolvedor mobile. Atuo com foco em testes manuais e automatizados, possuindo experiência em testes funcionais, de integração, regressão e exploratórios, sempre em ambientes ágeis com metodologias Scrum. Tenho vivência na criação de cenários e casos de teste utilizando a linguagem Gherkin, com abordagem BDD. Já realizei testes em aplicações Mobile (iOS e Android) e Web, além de testes de APIs REST utilizando ferramentas como Postman. Minha bagagem como desenvolvedor contribui para uma análise crítica mais apurada, uma visão técnica ampliada sobre os sistemas e uma colaboração mais eficiente com os times de desenvolvimento.
 
  <div>
   <a href="https://github.com/Ryan-STT">
