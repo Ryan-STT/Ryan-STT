@@ -11,6 +11,10 @@ Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Anális
 
 ---
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&width=435&lines=QA+Engineer;Testando+com+amor+e+ódio;Automação+%F0%9F%94%A5+Testes+Manuais+%F0%9F%92%AA;Cafeína+%2B+Postman+%3D+Sucesso" alt="Typing SVG" />
+</p>
+
 ### 🤖 Tecnologias e Ferramentas
 
 <img align="left" alt="Cypress" title="Cypress" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
