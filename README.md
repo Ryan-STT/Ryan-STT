@@ -13,7 +13,7 @@ Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Anális
 
 ### 🤖 Tecnologias e Ferramentas
 
-<img align="left" alt="Cypress" title="Cypress" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
+<img align="left" alt="Cypress" title="Cypress" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/> /
 <img align="left" alt="Postman" title="Postman" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
 <img align="left" alt="Swagger" title="Swagger" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
 <img align="left" alt="Android" title="Android" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
