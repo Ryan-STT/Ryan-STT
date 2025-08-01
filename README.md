@@ -13,8 +13,10 @@ Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Anális
 
 ### 🤖 Tecnologias e Ferramentas
 
-<img align="left" alt="Cypress" title="Cypress" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/> /
+<P>
+<img align="left" alt="Cypress" title="Cypress" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
 <img align="left" alt="Postman" title="Postman" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+ /
 <img align="left" alt="Swagger" title="Swagger" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
 <img align="left" alt="Android" title="Android" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
 <img align="left" alt="Apple" title="Apple" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
@@ -29,6 +31,8 @@ Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Anális
 <img align="left" alt="Java" title="Java" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="Javascript" title="Javascript" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+</P>
+
 
 <br/>
 <br/>
