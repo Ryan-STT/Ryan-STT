@@ -13,7 +13,8 @@ Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Anális
 
 ### 🤖 Tecnologias e Ferramentas
 
-<img align="left" alt="Robot Framework" title="Robot Framework" width="40px" style="padding-right: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Robot-framework-logo.png"/>
+<img align="left" alt="Robot Framework" title="Robot Framework" width="40px" style="padding-right: 40px;" src="https://raw.githubusercontent.com/klaudiosinani/awesome-robotframework/master/logo/robot-framework-logo.png"/>
+
 
 <img align="left" alt="Cypress" title="Cypress" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
 <img align="left" alt="Postman" title="Postman" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
