@@ -27,7 +27,12 @@ Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Anális
 <img align="left" alt="Java" title="Java" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="Javascript" title="Javascript" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Banco de Dados" title="Banco de Dados" width="40px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="400" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-STT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
 <br/>
 <br/>
 
@@ -41,9 +46,4 @@ Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Anális
     src="https://github-readme-stats.vercel.app/api?username=Ryan-STT&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="400" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-STT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+
