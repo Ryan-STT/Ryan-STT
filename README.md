@@ -38,6 +38,6 @@ Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Anális
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="800" 
+      height="1000" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-STT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
