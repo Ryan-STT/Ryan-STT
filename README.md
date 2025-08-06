@@ -34,3 +34,5 @@ Me chamo Ryan, tenho 22 anos e sou natural de São Paulo. Sou formado em Anális
 ### 📊 Estatísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/Ryan-STT/github-readme-stats)
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
